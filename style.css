@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url(photo-1569982175971-d92b01cf8694.jpg);
+    background-size: cover;
+}
+
+#button_sort{
+    display: none;
+}
+
+ol.guestlist>li
+{
+ padding-right: 35px;  
+
+}
